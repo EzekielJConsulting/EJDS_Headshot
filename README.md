@@ -1,7 +1,3 @@
-Sure! Here’s a `Readme.md` file for the `EJDS_Headshot` resource, including installation instructions and details on how to use the exports.
-
----
-
 # EJDS_Headshot
 
 EJDS_Headshot is a FiveM resource for generating player headshots based on their skin data stored in the `playerskins` database. This resource is integrated with the QBCore framework and includes a version check mechanism to ensure you are using the latest version.
